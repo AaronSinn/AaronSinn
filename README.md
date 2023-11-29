@@ -30,9 +30,9 @@
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 - 🖥 &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-
-<br/>
+  
 <!---
+<br/>
 <a href="https://github.com/AaronSinn">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AaronSinn&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaronSinn&theme=buefy&layout=compact" />
