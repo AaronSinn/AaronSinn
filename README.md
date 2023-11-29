@@ -49,4 +49,5 @@
 <a href="mailto:aaron.sinn@me.com"><img alt="Email" src="https://img.shields.io/badge/Email-aaron.sinn@me.com-blue?style=flat-square&logo=gmail"></a> -->
 <a href="https://aaronsinn.com/"><img alt="My Website" src="https://img.shields.io/badge/My_Website-aaronsinn.com-blue"></a>
 <a href="mailto:aaron.sinn@me.com"><img alt="Email" src="https://img.shields.io/badge/My_Email-aaron.sinn@me.com-green"></a>
+<a href="https://www.linkedin.com/aaron-sinn-8b817b193/"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-Aaron Sinn-9cf"></a>
 </p>
