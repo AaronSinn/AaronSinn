@@ -47,5 +47,6 @@
 <!-- <a href="https://www.aaronsinn.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.aaronsinn.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/aaron-sinn-8b817b193/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aaron%20Sinn-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:aaron.sinn@me.com"><img alt="Email" src="https://img.shields.io/badge/Email-aaron.sinn@me.com-blue?style=flat-square&logo=gmail"></a> -->
-<a href="https://aaronsinn.com/"><img alt="Email" src="https://img.shields.io/badge/My_Website-aaronsinn.com-blue"></a>
+<a href="https://aaronsinn.com/"><img alt="My Website" src="https://img.shields.io/badge/My_Website-aaronsinn.com-blue"></a>
+<a href="mailto:aaron.sinn@me.com"><img alt="Email" src="https://img.shields.io/badge/My_Email-aaron.sinn@me.com-green"></a>
 </p>
