@@ -44,7 +44,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.aaronsinn.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:aaron.sinn@me.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.aaronsinn.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.aaronsinn.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/aaron-sinn-8b817b193/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aaron%20Sinn-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:aaron.sinn@me.com"><img alt="Email" src="https://img.shields.io/badge/Email-aaron.sinn@me.com-blue?style=flat-square&logo=gmail"></a>
 </p>
