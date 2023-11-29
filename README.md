@@ -6,7 +6,7 @@
 - 🎓 &nbsp; Studying Computer Science at the University of Windsor.
 - 💼 &nbsp; Working as a Data Analyst at Ontario Power Generation.
 - 💼 &nbsp; I'm also working as a Teaching Assistant at the University of Windsor.
-- 💻 &nbsp; Check out my website!
+- 💻 &nbsp; Check out <a href="https://aaronsinn.com/">my website!</a>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -44,7 +44,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.aaronsinn.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.aaronsinn.com-blue?style=flat-square&logo=google-chrome"></a>
+<!-- <a href="https://www.aaronsinn.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.aaronsinn.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/aaron-sinn-8b817b193/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aaron%20Sinn-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:aaron.sinn@me.com"><img alt="Email" src="https://img.shields.io/badge/Email-aaron.sinn@me.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:aaron.sinn@me.com"><img alt="Email" src="https://img.shields.io/badge/Email-aaron.sinn@me.com-blue?style=flat-square&logo=gmail"></a> -->
+<a href="https://aaronsinn.com/">https://img.shields.io/badge/aaronsinn.com-8A2BE2</a>
 </p>
