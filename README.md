@@ -36,7 +36,7 @@
   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-333333?style=flat&logo=intellij-idea&logoColor=white)
   ![CLion](https://img.shields.io/badge/CLion-333333?style=flat&logo=clion&logoColor=white)
   
-
+<!---
 <br/>
 <a href="https://github.com/AaronSinn">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AaronSinn&theme=buefy&show_icons=true" />
