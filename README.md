@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science at the University of Windsor.
-- 💼 &nbsp; Working as a Data Analyst at Ontario Power Generation.
+- 💼 &nbsp; Working as a Fullstack Developer Intern at Ontario Power Generation.
 - 💼 &nbsp; I'm also working as a Teaching Assistant at the University of Windsor.
 - 💻 &nbsp; Check out <a href="https://aaronsinn.com/">my website!</a>
 
