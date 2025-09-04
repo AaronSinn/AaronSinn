@@ -6,7 +6,6 @@
 - 🎓 &nbsp; Studying Computer Science at the University of Windsor.
 - 💼 &nbsp; Working as a Fullstack Developer Intern at Ontario Power Generation.
 - 💼 &nbsp; I'm also working as a Teaching Assistant at the University of Windsor.
-- 💻 &nbsp; Check out <a href="https://aaronsinn.com/">my website!</a>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
