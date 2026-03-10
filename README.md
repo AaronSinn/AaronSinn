@@ -16,5 +16,5 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <a href="mailto:aaron.sinn@me.com"><img alt="Email" src="https://img.shields.io/badge/My_Email-aaron.sinn@me.com-green"></a>
-<a href="[https://www.linkedin.com/aaron-sinn](https://www.linkedin.com/in/aaron-sinn/)"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-Aaron Sinn-9cf"></a>
+<a href="https://www.linkedin.com/in/aaron-sinn"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-Aaron Sinn-9cf"></a>
 </p>
