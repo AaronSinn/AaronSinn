@@ -2,9 +2,9 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me</h3>
 
-- 🎓 &nbsp; Studying Computer Science at the University of Windsor.
+- 🎓 &nbsp; Studied Computer Science at the University of Windsor.
 - 💼 &nbsp; Previously a Fullstack Developer Intern at Ontario Power Generation.
-- 💼 &nbsp; I'm also working as a Teaching Assistant at the University of Windsor.
+- 💼 &nbsp; I'm currently working as a Full Stack Developer at TMMC.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
